@@ -3,7 +3,7 @@
 ## Description
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-It is the first and beginner frontendmentor challenge. It's a simple qr-code component challenge using HTML and CSS. It's intended to practice responsivelayouts for beginners.
+It is the first and beginner frontendmentor challenge. It's a simple qr-code component challenge using HTML and CSS. It's intended to practice responsive layouts for beginners.
 
 ## Screenshot
 
