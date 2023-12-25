@@ -24,7 +24,7 @@ Here is the screenshot of the project that I made. I presented it in desktop and
 
 # What I learned:
 
-Eventhough the project is a basic project, I learned a css root function to store various colors that we use in our project. I also practiced how to makeresponsive a webpage on small devices a little bit.
+Eventhough the project is a basic project, I learned a css root function to store various colors that we use in our project. I also practiced how to make responsive a webpage on small devices a little bit.
 
 # Author
 - Frontendmentor - [@ERMIYAS-021](https://www.frontendmentor.io/profile/ERMIYAS-021)
