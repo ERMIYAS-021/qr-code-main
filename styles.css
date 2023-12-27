@@ -25,8 +25,8 @@ body {
 }
 
 .container {
-    width: 380px;
-    height: 80vh;
+    width: 350px;
+    height: 68vh;
     background-color: var(--white);
     border-radius: 25px;
     text-align: center;
@@ -42,7 +42,7 @@ img {
 }
 
 .discriptions {
-    width: 72%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -50,7 +50,7 @@ h1 {
     font-size: 24px;
     color: var(--dark-blue);
     font-weight: 700;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
@@ -61,8 +61,8 @@ p {
 }
 
 .attribution {
-    margin-top: 20px;
-    font-size: 20px;
+    margin-top: 5rem;
+    font-size: 15px;
     font-style: italic;
 }
 
@@ -81,13 +81,13 @@ a:hover {
 
 @media (max-width: 550px) {
     .attribution {
-        width: 75%;
-        font-size: 15px;
-        text-align: center;
+        width: 60%;
+        font-size: 13px;
+        margin: 8rem auto;
     }
 
     .container {
-        height: 75vh;
+        height: 60vh;
     }
 
     img {
